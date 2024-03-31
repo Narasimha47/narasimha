@@ -8,14 +8,34 @@
 <meta charset="utf-8">
 <meta name="keywords" content="bootstrap 5, premium, multipurpose, sass, agency, seo, marketing, business, digital, rtl" />
 <meta name="description" content="HTML5 Template" />
-<meta name="author" content="www.themeht.com" />
+<meta name="author" content="www.vmtechnologies.in" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Title -->
-<title>MV Technologies</title>
+<title>VM Technologies, partner for YUPO & Microplex</title>
+
+<meta name="description"  content="VM Technologies is the Authorized partners of YUPO Corporation Japan in India. We are also sales &amp; service partners of Microplex in India." />
+
+<link rel="canonical" href="http://vmtechnologies.in/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="VM Technologies &raquo; Feed" href="http://vmtechnologies.in/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="VM Technologies &raquo; Comments Feed" href="http://vmtechnologies.in/?feed=comments-rss2" />
+<link rel="shortcut icon" href="//vmtechnologies.in/wp-content/uploads/2017/01/ms-icon-70x70.png" type="image/x-icon" />
+<!-- For iPad Retina display -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="">
+<link rel="alternate" type="application/rss+xml" title="VM Technologies &raquo; Home Comments Feed" href="http://vmtechnologies.in/?feed=rss2&#038;page_id=10868" />
+<meta property="og:title" content="Home"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://vmtechnologies.in/"/>
+<meta property="og:site_name" content="VM Technologies"/>
+<meta property="og:description" content="OUR MISSION IS TO HARNESS OUR CREATIVITY INTO A VIABLE SOLUTION     
+VM Technologies designs, develops & delivers innovative products and solutions using synthetic paper which is eco-friendly, recyclable and reusable. We are the Authorized partners of YUPO Corporation Japan. Our aim is to use Yupo’s synthetic paper to"/>
+<meta property="og:image" content="http://vmtechnologies.in/wp-content/uploads/2017/01/Logo_VM_75.png"/>
 
 <!-- favicon icon -->
-<link rel="shortcut icon" href="images/favicon.ico" />
+<!-- <link rel="shortcut icon" href="images/favicon.ico" /> -->
 
 <!-- inject css start -->
 
@@ -55,9 +75,9 @@
 <!--== responsive -->
 <link href="css/responsive.css" rel="stylesheet" type="text/css" />
 
-<!--== color-customizer -->
+<!--== color-customizer --><!-- 
 <link href="css/theme-color/color-2.css" data-style="styles" rel="stylesheet">
-<link href="css/color-customize/color-customizer.css" rel="stylesheet" type="text/css" />
+<link href="css/color-customize/color-customizer.css" rel="stylesheet" type="text/css" /> -->
 
 <!-- inject css end -->
 
@@ -91,158 +111,40 @@
         <div class="col">
           <!-- Navbar -->
           <nav class="navbar navbar-expand-lg">
-            <a class="navbar-brand logo" href="index.html">
-              <img class="img-fluid" src="images/logo.svg" alt=""> </a>
-            <button class="navbar-toggler ht-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <svg width="100" height="100" viewBox="0 0 100 100">
-                <path class="line line1" d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058"></path>
-                <path class="line line2" d="M 20,50 H 80"></path>
-                <path class="line line3" d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942"></path>
-              </svg>
-            </button>
+            <a class="navbar-brand logo" href="index.php">
+              <img class="img-fluid" src="images/Logo_VM_75.png" alt=""> </a>
             <div class="collapse navbar-collapse" id="navbarNav">
               <!-- Left nav -->
               <ul class="nav navbar-nav mx-auto">
                 <!-- Home -->
-                <li class="nav-item dropdown">
-                  <a class="nav-link active dropdown-toggle" href="#" data-bs-toggle="dropdown">Home</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="index.html">Home 01</a>
-                    </li>
-                    <li>
-                      <a href="index-2.html">Home 02</a>
-                    </li>
-                    <li>
-                      <a href="index-3.html">Home 03</a>
-                    </li>
-                    <li>
-                      <a href="index-4.html">Home 04</a>
-                    </li>
-                  </ul>
+                <li class="nav-item">
+                  <a class="nav-link active" href="index.php">Home</a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Pages</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="about-us.html">About Us</a>
-                    </li>
-                    <li>
-                      <a href="team.html">Team</a>
-                    </li>
-                    <li>
-                      <a href="team-single.html">Team Single</a>
-                    </li>
-                    <li>
-                      <a href="price-table.html">Price Table</a>
-                    </li>
-                    <li>
-                      <a href="faq.html">Faq</a>
-                    </li>
-                    <li>
-                      <a href="login.html">Login</a>
-                    </li>
-                    <li>
-                      <a href="coming-soon.html">Coming Soon</a>
-                    </li>
-                    <li>
-                      <a href="error-404.html">Error 404</a>
-                    </li>
-                  </ul>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">About Us</a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Shop</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="product-grid.html">Product Grid</a>
-                    </li>
-                    <li>
-                      <a href="product-list.html">Product List</a>
-                    </li>
-                    <li>
-                      <a href="product-single.html">Product Single</a>
-                    </li>
-                    <li>
-                      <a href="product-cart.html">Cart</a>
-                    </li>
-                    <li>
-                      <a href="product-checkout.html">Checkout</a>
-                    </li>
-                    <li>
-                      <a href="order-complete.html">Order Completed</a>
-                    </li>
-                    <li>
-                      <a href="forgot-password.html">Forgot Password</a>
-                    </li>
-                  </ul>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">Products & Services</a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Services</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="services.html">Service 01</a>
-                    </li>
-                    <li>
-                      <a href="services-2.html">Service 02</a>
-                    </li>
-                    <li>
-                      <a href="services-single.html">Service Single</a>
-                    </li>
-                  </ul>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">Clients</a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Portfolio</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="portfolio-masonry.html">Portfolio Masonry</a>
-                    </li>
-                    <li>
-                      <a href="portfolio-grid-2.html">Portfolio Grid 2</a>
-                    </li>
-                    <li>
-                      <a href="portfolio-grid-3.html">Portfolio Grid 3</a>
-                    </li>
-                    <li>
-                      <a href="portfolio-slider.html">Portfolio Slider</a>
-                    </li>
-                    <li>
-                      <a href="portfolio-single.html">Portfolio Single</a>
-                    </li>
-                  </ul>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">Microplex Printers</a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">News</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="blog-left-sidebar.html">Blog Left Sidebar</a>
-                    </li>
-                    <li>
-                      <a href="blog-right-sidebar.html">Blog Right Sidebar</a>
-                    </li>
-                    <li>
-                      <a href="blog-single.html">Blog Single</a>
-                    </li>
-                  </ul>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">News & Media</a>
                 </li>
-                <li class="nav-item dropdown">
-                  <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Contact</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="contact.html">Contact 1</a>
-                    </li>
-                    <li>
-                      <a href="contact-2.html">Contact 2</a>
-                    </li>
-                  </ul>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">Testimonials</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">Careers</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="index.php">Contact</a>
                 </li>
               </ul>
-            </div>
-            <div class="header-right d-flex align-items-center">
-              <a class="header-btn" href="contact.html">Let's Chat <i class="bi bi-arrow-right"></i>
-              </a>
-              <a href="#" class="ht-nav-toggle">
-                <i class="bi bi-grid-fill"></i>
-              </a>
             </div>
           </nav>
         </div>
@@ -250,60 +152,5 @@
     </div>
   </div>
 </header>
-
-<nav id="ht-main-nav">
-  <a href="#" class="ht-nav-toggle">
-    <i class="bi bi-x-lg"></i>
-  </a>
-  <a class="navbar-brand logo" href="index.html">
-    <img class="img-fluid" src="images/logo.svg" alt=""> </a>
-  <p class="mt-3">Seoland Digital Marketing Agency Template Is fully responsible, Build whatever you like with the Seoland, Seoland is the creative, modern HTML5 Template suitable for Your Business Marketing.</p>
-  <div class="form-info">
-    <h4 class="mb-4">Contact Info</h4>
-    <div class="contact-link">
-      <ul class="contact-info list-unstyled">
-        <li>
-          <i class="flaticon flaticon-gps-1"></i>
-          <span>Address:</span>
-          <p>5th Street, 21st Floor, New York, USA</p>
-        </li>
-        <li>
-          <i class="flaticon flaticon-email"></i>
-          <span>Email:</span>
-          <a href="mailto:themeht23@gmail.com">themeht23@gmail.com</a>
-        </li>
-        <li>
-          <i class="flaticon flaticon-mobile"></i>
-          <span>Phone:</span>
-          <a href="tel:+91-234-567-8900">+91-234-567-8900</a>
-        </li>
-      </ul>
-    </div>
-  </div>
-  <div class="social-icons mt-5">
-    <ul class="list-inline">
-      <li>
-        <a href="#">
-          <i class="flaticon-facebook-app-symbol"></i>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <i class="flaticon-twitter-2"></i>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <i class="flaticon-instagram"></i>
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <i class="flaticon-linkedin-1"></i>
-        </a>
-      </li>
-    </ul>
-  </div>
-</nav>
 
 <!--header end-->

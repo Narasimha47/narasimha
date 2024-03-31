@@ -6,8 +6,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4 col-md-7 pe-lg-8">
-          <a class="navbar-brand logo footer-logo" href="index.html">
-            <img class="img-fluid" src="images/logo-white.svg" alt="">
+          <a class="navbar-brand logo footer-logo" href="index.php">
+            <img class="img-fluid" src="images/Logo_VM_75.png" alt="">
           </a>
           <p class="mt-4 mb-5">Seoland Digital Marketing Agency Template Is fully responsible, Build whatever you like with the Seoland, Seoland is the creative, modern HTML5 Template suitable for Your Business Marketing.</p>
           <div class="subscribe-form">
@@ -89,7 +89,7 @@
       <div class="copyright">
         <div class="row align-items-center">
           <div class="col-md-6">Copyright 2024 Seoland Theme by <u>
-              <a href="#">ThemeHt</a>
+              <a href="index.php">VM Technologies</a>
             </u> | All Rights Reserved </div>
           <div class="col-md-6 text-md-end mt-3 mt-md-0">
             <ul class="list-inline ps-0 ms-0 footer-social">
@@ -137,23 +137,7 @@
 
 <!--color-customizer start-->
 
-<div class="color-customizer closed">
-  <a class="opener" href="#"> <i class="bi bi-palette"></i></a>
-  <div class="clearfix color-chooser text-center">
-    <h4 class="mb-4">Seoland With Awesome Colors</h4>
-    <ul class="colorChange clearfix">
-      <li class="theme-default" title="theme-default" data-style="color-1"></li>
-      <li class="theme-2 selected" title="theme-2" data-style="color-2"></li>
-      <li class="theme-3" title="theme-3" data-style="color-3"></li>
-      <li class="theme-4" title="theme-4" data-style="color-4"></li>
-      <li class="theme-5" title="theme-5" data-style="color-5"></li>
-      <li class="theme-6" title="theme-6" data-style="color-6"></li>
-      <li class="theme-7" title="theme-7" data-style="color-7"></li>
-      <li class="theme-8" title="theme-8" data-style="color-8"></li>
-      <li class="theme-9" title="theme-9" data-style="color-9"></li>
-    </ul>
-  </div>
-</div>
+
 
 <!--color-customizer end-->
 
@@ -224,5 +208,5 @@
 </body>
 
 
-<!-- Mirrored from themeht.com/template/seoland/ltr/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Mar 2024 14:38:40 GMT -->
+<!-- Mirrored from vmtechnologies.in/template/seoland/ltr/index-2.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Mar 2024 14:38:40 GMT -->
 </html>
