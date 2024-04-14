@@ -88,7 +88,7 @@
     <div class="container">
       <div class="copyright">
         <div class="row align-items-center">
-          <div class="col-md-6">Copyright 2024 Seoland Theme by <u>
+          <div class="col-md-6">Copyright 2024 VMTechnologies <u>
               <a href="index.php">VM Technologies</a>
             </u> | All Rights Reserved </div>
           <div class="col-md-6 text-md-end mt-3 mt-md-0">

@@ -121,10 +121,10 @@ VM Technologies designs, develops & delivers innovative products and solutions u
                   <a class="nav-link active" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="index.php">About Us</a>
+                  <a class="nav-link" href="about-us.php">About Us</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="index.php">Products & Services</a>
+                  <a class="nav-link" href="products-services.php">Products & Services</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="index.php">Clients</a>
